@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : นายปัชนภ รอดกลึง
 
-Vercel URL : 
+Vercel URL : https://lab08-2567-660612151.vercel.app/
 
 ---
 
